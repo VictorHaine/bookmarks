@@ -15,3 +15,7 @@ Bookmarks on several subjects
 
 ## dotnet core
 [CLI and CI with jenkins examples](https://neelbhatt.com/2018/06/17/guide-to-create-and-run-net-core-application-using-cli-tools-net-core-cli-part-i/)
+
+## CQRS
+[CQRS : A Cross Examination Of How It Works](https://www.codeproject.com/articles/991648/cqrs-a-cross-examination-of-how-it-works)
+[Real-World CQRS/ES with ASP.NET and Redis](https://exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/)
