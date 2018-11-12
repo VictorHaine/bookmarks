@@ -15,6 +15,7 @@ Bookmarks on several subjects
 
 ## dotnet core
 [CLI and CI with jenkins examples](https://neelbhatt.com/2018/06/17/guide-to-create-and-run-net-core-application-using-cli-tools-net-core-cli-part-i/)
+[How to set up a full-stack .NET web development environment on Mac OS](https://codeburst.io/how-to-set-up-a-modern-full-stack-net-web-development-environment-on-mac-os-542dcd43a564)
 
 ## CQRS
 [CQRS : A Cross Examination Of How It Works](https://www.codeproject.com/articles/991648/cqrs-a-cross-examination-of-how-it-works)
