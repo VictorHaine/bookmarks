@@ -4,8 +4,7 @@ Bookmarks on several subjects
 ## Kubernets
 [Artsy Kubernets](https://github.com/artsy/README/blob/master/playbooks/kubernetes.md)
 
-
-## Blog Posts
+## Software Engineering and Stacks
 [Artsy - Highlights from our engineering blog](https://github.com/artsy/README/blob/master/resources/blog.md#readme)
 [Artsy - How to get started on any of our tech stacks](https://github.com/artsy/README/blob/master/resources/tech-learning.md#readme)
 
@@ -17,8 +16,9 @@ Bookmarks on several subjects
 [CLI and CI with jenkins examples](https://neelbhatt.com/2018/06/17/guide-to-create-and-run-net-core-application-using-cli-tools-net-core-cli-part-i/)
 [How to set up a full-stack .NET web development environment on Mac OS](https://codeburst.io/how-to-set-up-a-modern-full-stack-net-web-development-environment-on-mac-os-542dcd43a564)
 
-## DDD
+## Microservices
 [Microservices with DDD - Project Structure](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/net-core-microservice-domain-model)
+[Mastering the art of designing Microservices Architecture - Playlist YouTube](https://www.youtube.com/watch?v=wD-d0oZI4YM&list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG)
 
 ## CQRS
 [CQRS : A Cross Examination Of How It Works](https://www.codeproject.com/articles/991648/cqrs-a-cross-examination-of-how-it-works)
