@@ -17,6 +17,9 @@ Bookmarks on several subjects
 [CLI and CI with jenkins examples](https://neelbhatt.com/2018/06/17/guide-to-create-and-run-net-core-application-using-cli-tools-net-core-cli-part-i/)
 [How to set up a full-stack .NET web development environment on Mac OS](https://codeburst.io/how-to-set-up-a-modern-full-stack-net-web-development-environment-on-mac-os-542dcd43a564)
 
+## DDD
+[Microservices with DDD - Project Structure](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/net-core-microservice-domain-model)
+
 ## CQRS
 [CQRS : A Cross Examination Of How It Works](https://www.codeproject.com/articles/991648/cqrs-a-cross-examination-of-how-it-works)
 [Real-World CQRS/ES with ASP.NET and Redis](https://exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/)
