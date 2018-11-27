@@ -1,6 +1,9 @@
 # bookmarks
 Bookmarks on several subjects
 
+## Courses
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
 ## Kubernets
 - [Artsy Kubernets](https://github.com/artsy/README/blob/master/playbooks/kubernetes.md)
 - [Kubernets Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
