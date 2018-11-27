@@ -28,3 +28,6 @@ Bookmarks on several subjects
 
 ## EF6/CORE
 [Join with in memory collection](http://tsherlock.tech/2018/03/20/joining-in-memory-list-to-entity-framework-query/)
+
+## Project Management
+[Fractals in Project Management](http://clanmills.com/files/FractalsInProjectPlanning.txt)
