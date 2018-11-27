@@ -3,6 +3,7 @@ Bookmarks on several subjects
 
 ## Kubernets
 [Artsy Kubernets](https://github.com/artsy/README/blob/master/playbooks/kubernetes.md)
+[Kubernets Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 
 ## Software Engineering and Stacks
 [Artsy - Highlights from our engineering blog](https://github.com/artsy/README/blob/master/resources/blog.md#readme)
