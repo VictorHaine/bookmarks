@@ -7,6 +7,7 @@ Bookmarks on several subjects
 ## Software Engineering and Stacks
 [Artsy - Highlights from our engineering blog](https://github.com/artsy/README/blob/master/resources/blog.md#readme)
 [Artsy - How to get started on any of our tech stacks](https://github.com/artsy/README/blob/master/resources/tech-learning.md#readme)
+[Clean architectures in Python: a step-by-step example](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 
 ## CI/CD
 [dotnet core 2.0.0 CI/CD VSTS, Docker and Azure](https://mikewilliams.io/ci-cd-with-net-core-2-0-vs-code-github-azure-and-docker-891748641315)
