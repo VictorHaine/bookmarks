@@ -11,8 +11,12 @@ Bookmarks on several subjects
 ## Software Engineering and Stacks
 - [Artsy - Highlights from our engineering blog](https://github.com/artsy/README/blob/master/resources/blog.md#readme)
 - [Artsy - How to get started on any of our tech stacks](https://github.com/artsy/README/blob/master/resources/tech-learning.md#readme)
+- [Arkency - Interesting Posts and OSP](https://arkency.com/)
 - [Clean architectures in Python: a step-by-step example](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 - [BoldRadius - Videos about Scala and Software Engineering](https://www.youtube.com/user/Boldradius/videos)
+
+## AI
+- [Microsoft Q&A to Chatbot](https://www.qnamaker.ai/)
 
 ## CI/CD
 - [dotnet core 2.0.0 CI/CD VSTS, Docker and Azure](https://mikewilliams.io/ci-cd-with-net-core-2-0-vs-code-github-azure-and-docker-891748641315)
@@ -29,6 +33,7 @@ Bookmarks on several subjects
 ## CQRS
 - [CQRS : A Cross Examination Of How It Works](https://www.codeproject.com/articles/991648/cqrs-a-cross-examination-of-how-it-works)
 - [Real-World CQRS/ES with ASP.NET and Redis](https://exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/)
+- [CQRS STARTER KIT](http://www.cqrs.nu/)
 
 ## EF6/CORE
 - [Join with in memory collection](http://tsherlock.tech/2018/03/20/joining-in-memory-list-to-entity-framework-query/)
